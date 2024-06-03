@@ -1,0 +1,8 @@
+[package]
+name = "sungoose"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pipey = {git = "https://github.com/coloredmarble/pipey"} 
+rouille = "3.6.2"
